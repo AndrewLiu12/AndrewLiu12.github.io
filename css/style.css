@@ -35,3 +35,8 @@ body {
     color: white;
     padding-bottom: 8px;
 }
+
+.copyright {
+    padding: 8px;
+    text-align: center;
+}
