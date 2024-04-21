@@ -36,10 +36,13 @@ body {
     padding-bottom: 8px;
 }
 
+.socials {
+    text-align: center;
+    display: inline-flex;
+}
+
 .socials a p {
     color: white;
-    display: inline-flex;
-    text-align: center;
 }
 
 .copyright {
