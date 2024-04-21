@@ -1,5 +1,13 @@
+/*  fonts should always be rem 
+    paddings and margins should be px or rem, never use % or em 
+    widths should be rem or % 
+    heights should be rem so that they scale with font size, never use px. Rare cases of % when only with 100% */
 body {
     margin: 0;
+}
+
+.intro {
+    text-align: center;
 }
 
 /* Add a black background color to the top navigation */
@@ -38,7 +46,10 @@ body {
 
 .socials {
     text-align: center;
-    display: inline-flex;
+}
+
+.socials a {
+    text-decoration: none;
 }
 
 .socials a p {
