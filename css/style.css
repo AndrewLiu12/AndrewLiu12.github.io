@@ -36,6 +36,11 @@ body {
     padding-bottom: 8px;
 }
 
+.socials a p {
+    color: white;
+    display: inline-flex;
+}
+
 .copyright {
     padding: 8px;
     text-align: center;
