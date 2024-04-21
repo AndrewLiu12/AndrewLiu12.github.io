@@ -39,6 +39,7 @@ body {
 .socials a p {
     color: white;
     display: inline-flex;
+    text-align: center;
 }
 
 .copyright {
