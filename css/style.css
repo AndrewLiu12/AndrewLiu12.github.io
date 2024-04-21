@@ -33,4 +33,5 @@ body {
 .footer {
     background-color: #04AA6D;
     color: black;
+    padding-bottom: 8px;
 }
