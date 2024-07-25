@@ -10,6 +10,10 @@ p {
     color: navy;
 }
 
+section {
+    display: block;
+}
+
 .intro {
     text-align: center;
 }
