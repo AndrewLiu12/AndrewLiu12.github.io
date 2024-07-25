@@ -6,6 +6,10 @@ body {
     margin: 0;
 }
 
+p {
+    font-family: 'Roboto Slab', serif;
+}
+
 .intro {
     text-align: center;
 }
