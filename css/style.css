@@ -55,6 +55,36 @@ section {
     color: white;
 }
 
+#intro {
+    background: #d21414;
+    font-size: 30px;
+}
+
+#experiences {
+    background: #3da4bb;
+    font-size: 30px;
+}
+
+#projects {
+    background: #74BE98;
+    font-size: 30px;
+}
+
+#bookReviews {
+    background: #BED28D;
+    font-size: 30px;
+}
+
+#skills {
+    background: #d8726f;
+    font-size: 30px;
+}
+
+#education {
+    background: #ccd86f;
+    font-size: 30px;
+}
+
 .footer {
     background-color: black;
     color: white;
