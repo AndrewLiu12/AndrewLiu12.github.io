@@ -2,8 +2,11 @@
     paddings and margins should be px or rem, never use % or em 
     widths should be rem or % 
     heights should be rem so that they scale with font size, never use px. Rare cases of % when only with 100% */
-body {
+html, body {
     margin: 0;
+    height: 100%;
+    width: 100%;
+    padding: 0;
 }
 
 p {
@@ -12,6 +15,12 @@ p {
 
 section {
     display: block;
+    background: #CFF;
+    height: 100%;
+    width: 100%;
+    padding: 60px;
+    padding-left: 120px;
+    box-sizing:border-box;
 }
 
 .intro {
