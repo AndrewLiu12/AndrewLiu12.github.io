@@ -1,5 +1,3 @@
-window.slide = new SlideNav();
-
 var header = document.getElementById("header");
 var navs = header.getElementsByClassName("nav");
 for (var i = 0; i < navs.length; i++) {
