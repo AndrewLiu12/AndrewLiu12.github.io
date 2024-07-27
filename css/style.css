@@ -56,32 +56,38 @@ section {
 }
 
 #intro {
-    background: #d21414;
-    font-size: 12px;
+    background: black;
+    color: white;
+    font-size: 30px;
 }
 
 #experiences {
-    background: #3da4bb;
+    background: black;
+    color: white;
     font-size: 12px;
 }
 
 #projects {
-    background: #74BE98;
+    background: black;
+    color: white;
     font-size: 12px;
 }
 
 #bookReviews {
-    background: #BED28D;
+    background: black;
+    color: white;
     font-size: 12px;
 }
 
 #skills {
-    background: #d8726f;
+    background: black;
+    color: white;
     font-size: 12px;
 }
 
 #education {
-    background: #ccd86f;
+    background: black;
+    color: white;
     font-size: 12px;
 }
 
